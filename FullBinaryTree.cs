@@ -1,3 +1,18 @@
+/*
+    FullBinaryTree.cs
+    ------------------
+
+    Manual implementation of a full binary tree in C# with traversal methods.
+    (C# dilinde tam ikili ağacın manuel kurulumu ve dolaşım yöntemleri)
+
+    İçerik:
+    - Full binary tree node structure
+    - Manual node additions (manual setup)
+    - Tree traversal: InOrder, PreOrder, PostOrder
+
+*/
+
+
 using System;
 
 namespace FullBinaryTreeExample
