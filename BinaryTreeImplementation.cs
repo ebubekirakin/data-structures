@@ -1,3 +1,16 @@
+/*
+    BinaryTreeImplementation.cs
+    ----------------------------
+
+    Manual implementation of a general binary tree in C#.
+    (C# dilinde genel bir ikili ağacın manuel kurulumu)
+
+    İçerik:
+    - Binary tree node class
+    - Custom tree structure example
+
+*/
+
 using System;
 
 namespace BinaryTreeExample
