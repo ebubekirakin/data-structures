@@ -1,3 +1,16 @@
+/*
+    ProperBinaryTree.cs
+    --------------------
+
+    Manual implementation of a proper binary tree in C#.
+    (C# dilinde "her düğümün 0 veya 2 çocuğu" olan doğru ikili ağacın manuel kurulumu)
+
+    İçerik:
+    - Proper binary tree node structure
+    - Manual tree construction
+    - Tree traversal: PreOrder, InOrder, PostOrder
+
+*/
 
 using System;
 
