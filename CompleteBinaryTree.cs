@@ -1,3 +1,16 @@
+/*
+    CompleteBinaryTree.cs
+    -----------------------
+
+    Manual implementation of a complete binary tree in C#.
+    (C# dilinde tamamlanmış ikili ağacın manuel kurulumu)
+
+    İçerik:
+    - Complete binary tree node yapısı
+    - Manuel ağaç kurulumu (complete yapı korunarak)
+    - Ağaç dolaşım yöntemleri: InOrder, PreOrder, PostOrder
+
+*/
 
 using System;
 
