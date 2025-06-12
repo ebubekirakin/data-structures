@@ -1,3 +1,17 @@
+/*
+    BalancedBinaryTree.cs
+    -----------------------
+
+    Manual implementation of a balanced binary tree in C#.
+    (C# dilinde dengeli ikili ağacın manuel kurulumu)
+
+    İçerik:
+    - Balanced binary tree node yapısı
+    - Manuel dengeli ağaç kurulumu (yükseklik dengesi korunarak)
+    - Ağaç dolaşım yöntemleri: InOrder, PreOrder, PostOrder
+
+*/
+
 
 using System;
 
