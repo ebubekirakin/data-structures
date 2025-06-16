@@ -1,3 +1,16 @@
+/*
+    HeapTree.cs
+    ------------
+    Manual implementation of a Max-Heap using array in C#.
+    (C# dilinde dizi kullanılarak Max-Heap ağacının manuel kurulumu)
+
+    İçerik:
+    - Max-Heap yapısı
+    - Ekleme (Insert)
+    - Çıkartma (Extract Max)
+    - Heapify işlemleri
+
+*/
 
 using System;
 
