@@ -1,3 +1,17 @@
+/*
+    AvlTree.cs
+    ------------
+    Manual implementation of an AVL Tree in C# with insert and in-order traversal.
+    (C# dilinde AVL ağacının manuel kurulumu, ekleme ve sıralı dolaşımı)
+
+    Özellikler:
+    - Kendi kendini dengeleyen BST
+    - Insert (Ekleme)
+    - Rotation işlemleri
+    - In-order traversal (Sıralı dolaşım)
+
+ 
+*/
 
 using System;
 
