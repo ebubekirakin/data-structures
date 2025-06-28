@@ -13,7 +13,6 @@
 */
 
 
-
 using System;
 
 namespace CompleteBinaryTreeExample
